@@ -1,0 +1,138 @@
+body{
+    background: linear-gradient(55.82deg, #243177 17.79%, #ebaaf5 58.35%); 
+    line-height: normal;
+}
+.weds{
+    margin-bottom: 25px;
+}
+.aboutus{
+    margin-top: 100px;
+    color:white;
+}
+.abouthead{
+    padding: 10px 5px;
+
+    text-align: center;
+    font-weight: 700;
+    color:white;
+}
+.abouthead:hover{
+    font-size:xx-large;
+    font-weight: 800;
+   text-decoration:dotted;
+   text-decoration-color: #2B44CC;
+    
+}
+.aboutulist{
+    margin-left: 45px;
+}
+.abouttitle{
+    margin-bottom: 25px;
+    font-weight: 700;
+}
+.aboutcont{
+    font-size: 16px;
+    margin-left: 10px;
+}
+.footerul,.footli{
+    list-style: none;
+    font-size: 16px;
+    }
+
+    .footli:hover{
+        /* text-decoration: underline; */
+        color: #2B44CC;
+        }
+    .footer__social {
+        margin-bottom: 20px;
+    }
+    .footer__social a {
+        display: inline-block;
+        height: 38px;
+        width: 38px;
+        font-size: 18px;
+        color: #0c0c0c;
+        line-height: 38px;
+        text-align: center;
+        border-radius: 10%;
+        margin-right: 6px;
+    }
+    .footer__social a:last-child {
+        margin-right: 0;
+    }
+    .footheading{
+        color: #223392;
+        font-weight: 600;
+    }
+     a.email{
+        font-size: 16px;   
+    }
+    a.phone{
+        font-size: 16px;
+        
+    }
+    a.location {
+        font-size:16px;    
+    }
+    a.email:hover, a.phone:hover,a.location:hover{
+        color:#2B44CC ;
+    }
+    .footer__social a.facebook {
+        background: #3EAFF0;
+        color: #fdfcfd;
+        font-size: 24px;
+    }
+    .footer__social a.linkedin {
+        background: #3EAFF0;
+        color: #fdfcfd;
+        font-size: 24px;
+    }
+    .footer__social a.twitter {
+        background: #3EAFF0;
+        color: #fdfcfd;
+        font-size: 24px;
+    }
+    
+    .footer__social a.insta {
+        background: #3EAFF0;
+        /* background: linear-gradient( #0f249b , #e41239 , #c51278 , #f0ce0c); */
+        color: #fdfcfd;
+        font-size: 24px;
+    }
+    .footer__social a.skype {
+        background: #3EAFF0;
+        color: #fdfcfd;
+        font-size: 24px;
+    }
+    a.facebook:hover,a.linkedin:hover,a.twitter:hover,a.insta:hover,a.skype:hover{
+        border-radius: 50%;
+        background-color: #f2bffa;
+    }
+    .links{
+        font-size:large;
+        font-weight: 600;
+        margin-top:25px;
+        padding-left: 30px;
+    }
+    .Contact{
+        font-size:large;
+        font-weight: 600;
+        margin-top:25px;
+    }
+    .footer__social{
+        font-size:large;
+        font-weight: 600;
+        margin-top:25px;
+    }
+    .copyright p {
+        color: #fff;
+        font-size: 17px;
+        line-height: 22px;
+        text-align: center;
+        padding-top: 26px;
+        font-weight: normal;
+        padding-bottom: 20px;
+    }
+    .copyright a {
+        color: #fff;
+    }
