@@ -24,8 +24,9 @@
 }
 .ques{
     background-color: #efd5d9;
-    padding: 10px;
+    padding: 10px 20px 10px 20px;
     margin-left: 5px;
+    border-radius: 10px;
 }
 .ans{
     display: none;
@@ -33,6 +34,7 @@
     padding: 20px;
     margin-left: 5px;
     border-top: 1px solid #ddd;
+    text-align:justify ;
     
 }
 .listing, .list {
